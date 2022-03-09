@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Konstantin Snarskii
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning in Innioilis University
